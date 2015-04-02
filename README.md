@@ -8,7 +8,7 @@ Access to the stories in local.
 
 The compilation will be made via cmake.
 
-Use "cd build/cmake && cmake . && make" to compile
+Use "cd build/cmake && make -f PreMakefile && cmake . && make" to compile
 
 # Licence
 

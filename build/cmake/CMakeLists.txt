@@ -21,6 +21,7 @@ file(
 
 include_directories(
   ../../include/
+  ../../externals/cys-engine/include
 )
 
 add_library(cysengine ${source_files})
